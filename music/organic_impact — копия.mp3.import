@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c2ddsh4kpy1il"
+path="res://.godot/imported/organic_impact — копия.mp3-f8d965fa4071f6f00ddf2552590b5b49.mp3str"
+
+[deps]
+
+source_file="res://music/organic_impact — копия.mp3"
+dest_files=["res://.godot/imported/organic_impact — копия.mp3-f8d965fa4071f6f00ddf2552590b5b49.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
